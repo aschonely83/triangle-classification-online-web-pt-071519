@@ -8,7 +8,8 @@ class Triangle
   end 
   
   def kind 
-    if a == b && b == c  
+    if a == b && b == c 
+      
   end  
   
   class TriangleError
