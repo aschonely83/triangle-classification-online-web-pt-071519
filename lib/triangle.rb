@@ -7,7 +7,9 @@ class Triangle
     @c = c 
   end 
   
-  
+  def kind 
+    
+  end  
   
   class TriangleError
   end  
