@@ -19,6 +19,7 @@ class Triangle
   end
   
   def validate_triangle
+    real_triangle
   
   class TriangleError
   end  
