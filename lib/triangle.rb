@@ -8,7 +8,7 @@ class Triangle
   end 
   
   def kind
-    if 
+    if (a )
     validate_triangle
     if a == b && b == c
       :equilateral
