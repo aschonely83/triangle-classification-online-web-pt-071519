@@ -8,7 +8,7 @@ class Triangle
   end 
   
   def kind
-    validate 
+    validate_triangle
     if a == b && b == c 
         
   end  
